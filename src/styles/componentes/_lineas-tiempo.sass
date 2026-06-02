@@ -497,11 +497,14 @@
           &__content
             &__title
               font-weight: $base-bold-font-weight
-          &__number
+              background-color: #F6F6DF
+            background-color: #F6F6DF
+            &__number
             font-weight: $base-bold-font-weight
     &__col-number
       display: flex
       flex-direction: column
+      
 
     &__dots
       flex: 1
@@ -522,7 +525,9 @@
       height: 40px
       cursor: pointer
       transition: background-color .3s ease-in-out, color .3s ease-in-out
+      
     &__content
+      
       &__title
         display: flex
         align-items: center
@@ -533,6 +538,7 @@
       &__slot
         overflow: hidden
         transition: height .5s ease-in-out
+        
   .tarjeta
     border-radius: 5px
 
