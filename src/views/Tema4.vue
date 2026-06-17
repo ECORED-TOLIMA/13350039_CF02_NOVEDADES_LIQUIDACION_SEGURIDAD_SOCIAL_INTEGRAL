@@ -39,9 +39,9 @@
             li 
               .lista-ol--cuadro__vineta
                 span D
-            p.mb-0
-              b Calcular los aportes y verificar el total liquidado: 
-              | determinar el valor de los aportes a cada componente del sistema y confirmar que el total calculado en el sistema de nómina coincide con el generado por el operador de la PILA antes de realizar el pago.
+              p.mb-0
+                b Calcular los aportes y verificar el total liquidado: 
+                | determinar el valor de los aportes a cada componente del sistema y confirmar que el total calculado en el sistema de nómina coincide con el generado por el operador de la PILA antes de realizar el pago.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure

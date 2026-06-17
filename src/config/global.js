@@ -53,8 +53,7 @@
           },
           {
             numero: '1.4',
-            titulo:
-              'Cálculo del IBC: trabajadores independientes y contratistas',
+            titulo: 'Cálculo del IBC: independientes y contratistas',
             hash: 't_1_4',
           },
           {
@@ -62,7 +61,11 @@
             titulo: 'Topes mínimos y máximos del IBC',
             hash: 't_1_5',
           },
-          { numero: '1.6', titulo: 'Variaciones del IBC', hash: 't_1_6' },
+          {
+            numero: '1.6',
+            titulo: 'Variaciones del IBC',
+            hash: 't_1_6',
+          },
         ],
       },
       {
@@ -86,7 +89,11 @@
             titulo: 'Sistema General de Riesgos Laborales',
             hash: 't_2_3',
           },
-          { numero: '2.4', titulo: 'Aportes parafiscales', hash: 't_2_4' },
+          {
+            numero: '2.4',
+            titulo: 'Aportes parafiscales',
+            hash: 't_2_4',
+          },
           {
             numero: '2.5',
             titulo: 'Exoneraciones para pequeñas empresas',
@@ -110,7 +117,11 @@
             titulo: 'Elaboración y diligenciamiento',
             hash: 't_3_2',
           },
-          { numero: '3.3', titulo: 'Plazos de pago', hash: 't_3_3' },
+          {
+            numero: '3.3',
+            titulo: 'Plazos de pago',
+            hash: 't_3_3',
+          },
           {
             numero: '3.4',
             titulo: 'Verificación, corrección y anulación de planillas',
@@ -221,57 +232,57 @@
   referencias: [
     {
       referencia:
-        'Congreso de la República de Colombia. (1963). Ley 1 de 1963, por la cual se establece el subsidio de transporte. Diario Oficial n.° 31.014.',
+        'Congreso de la República de Colombia. (1963). <em>Ley 1 de 1963, por la cual se establece el subsidio de transporte. Diario Oficial n.° 31.014.</em>',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (1993). Ley 100 de 1993, por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial N.° 41.148.',
+        'Congreso de la República de Colombia. (1993). <em>Ley 100 de 1993, por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial N.° 41.148.</em>',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2012). Ley 1607 de 2012, por la cual se expiden normas en materia tributaria y se dictan otras disposiciones. Diario Oficial n.° 48.655.',
+        'Congreso de la República de Colombia. (2012). <em>Ley 1607 de 2012, por la cual se expiden normas en materia tributaria y se dictan otras disposiciones. Diario Oficial n.° 48.655.</em>',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2016). Ley 1780 de 2016, por medio de la cual se promueve el empleo y el emprendimiento juvenil y se dictan otras disposiciones. Diario Oficial n.° 49.861.',
+        'Congreso de la República de Colombia. (2016). <em>Ley 1780 de 2016, por medio de la cual se promueve el empleo y el emprendimiento juvenil y se dictan otras disposiciones. Diario Oficial n.° 49.861.</em>',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2019). Ley 1955 de 2019, por el cual se expide el plan nacional de desarrollo 2018-2022 "Pacto por Colombia, Pacto por la Equidad". Diario Oficial n.° 50.964.',
+        'Congreso de la República de Colombia. (2019). <em>Ley 1955 de 2019, por el cual se expide el plan nacional de desarrollo 2018-2022 "Pacto por Colombia, Pacto por la Equidad". Diario Oficial n.° 50.964.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud. (1999). Decreto 1406 de 1999, por el cual se adoptan unas disposiciones reglamentarias de la Ley 100 de 1993. Diario Oficial n.° 43.686.',
+        'Ministerio de Salud. (1999). <em>Decreto 1406 de 1999, por el cual se adoptan unas disposiciones reglamentarias de la Ley 100 de 1993. Diario Oficial n.° 43.686.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud. (2002). Decreto 1703 de 2002, por el cual se adoptan medidas para promover y controlar la afiliación y el pago de aportes en el Sistema General de Seguridad Social en Salud. Diario Oficial n.° 44.901.',
+        'Ministerio de Salud. (2002). <em>Decreto 1703 de 2002, por el cual se adoptan medidas para promover y controlar la afiliación y el pago de aportes en el Sistema General de Seguridad Social en Salud. Diario Oficial n.° 44.901.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Decreto 780 de 2016, por medio del cual se expide el decreto único reglamentario del sector salud y protección social. Diario Oficial n.° 49.865.',
+        'Ministerio de Salud y Protección Social. (2016). <em>Decreto 780 de 2016, por medio del cual se expide el decreto único reglamentario del sector salud y protección social. Diario Oficial n.° 49.865.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Trabajo y Seguridad Social. (2002). Decreto 1607 de 2002, por el cual se modifica la tabla de clasificación de actividades económicas para el Sistema General de Riesgos Profesionales. Diario Oficial n.° 44.892.',
+        'Ministerio de Trabajo y Seguridad Social. (2002). <em>Decreto 1607 de 2002, por el cual se modifica la tabla de clasificación de actividades económicas para el Sistema General de Riesgos Profesionales. Diario Oficial n.° 44.892.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio del Trabajo. (2015). Decreto 1072 de 2015, por medio del cual se expide el decreto único reglamentario del sector trabajo. Diario Oficial n.° 49.523.',
+        'Ministerio del Trabajo. (2015). <em>Decreto 1072 de 2015, por medio del cual se expide el decreto único reglamentario del sector trabajo. Diario Oficial n.° 49.523.</em>',
       link: '',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (1950). Decreto-Ley 2663 de 1950, código sustantivo del trabajo. Diario Oficial n.° 27.622.',
+        'Presidencia de la República de Colombia. (1950). <em>Decreto-Ley 2663 de 1950, código sustantivo del trabajo. Diario Oficial n.° 27.622.</em>',
       link: '',
     },
   ],

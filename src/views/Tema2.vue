@@ -466,16 +466,16 @@
             figure
               img(src='@/assets/curso/temas/tema2/img34.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Exoneración general de aportes:   
-        p.mb-0.text-center aplica a determinados empleadores respecto de trabajadores que devenguen, individualmente considerados, menos de 10 SMLMV. Cuando se cumplen los requisitos legales, puede excluirse el pago de aportes al SENA, al ICBF y la cotización patronal a salud, según el artículo 114-1 del Estatuto Tributario.
+        h5.text-center Exoneración general de aportes
+        p.mb-0.text-center Aplica a determinados empleadores respecto de trabajadores que devenguen, individualmente considerados, menos de 10 SMLMV. Cuando se cumplen los requisitos legales, puede excluirse el pago de aportes al SENA, al ICBF y la cotización patronal a salud, según el artículo 114-1 del Estatuto Tributario.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema2/img35.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Beneficios asociados al empleo joven: 
-        p.mb-0.text-center corresponden a incentivos previstos para promover la vinculación laboral de jóvenes y la creación de empresas jóvenes. Su aplicación exige revisar los requisitos específicos de la Ley 1780 de 2016 y la reglamentación vigente.
+        h5.text-center Beneficios asociados al empleo joven
+        p.mb-0.text-center Corresponden a incentivos previstos para promover la vinculación laboral de jóvenes y la creación de empresas jóvenes. Su aplicación exige revisar los requisitos específicos de la Ley 1780 de 2016 y la reglamentación vigente.
     p.mb-4
       | Estas dos figuras no deben confundirse, porque responden a finalidades y condiciones distintas. La primera se relaciona con la estructura tributaria y parafiscal del empleador; la segunda busca incentivar la generación de empleo juvenil y el emprendimiento. En ambos casos, la aplicación del beneficio debe estar soportada con documentos verificables.
     .row.justify-content-center.align-items-center.mb-4

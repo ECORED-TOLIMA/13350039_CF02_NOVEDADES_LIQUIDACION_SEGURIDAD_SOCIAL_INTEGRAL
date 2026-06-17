@@ -22,28 +22,28 @@
           img(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
           .tarjeta.bgfI02.w-100
             .p-4
-              p.text-center #[b Trabajador dependiente:]
+              p.text-center #[b Trabajador dependiente]
               p.text-center El IBC corresponde al salario devengado en el período, incluyendo el salario básico y los pagos de naturaleza salarial habitual, con un mínimo de 1 SMLMV y un máximo de 25 SMLMV.
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
           .tarjeta.bgfI02.w-100
             .p-4
-              p.text-center #[b Contratista independiente con contrato de prestación de servicios:]
+              p.text-center #[b Contratista independiente con contrato de prestación de servicios]
               p.text-center El IBC equivale al 40 % del valor mensualizado del contrato, reconociendo que el contratista asume costos de operación que el trabajador dependiente no tiene.
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
           .tarjeta.bgfI02.w-100
             .p-4
-              p.text-center #[b Aprendiz SENA en fase productiva:]
+              p.text-center #[b Aprendiz SENA en fase productiva]
               p.text-center El IBC se determina según la disponibilidad de certificación: 75 % del SMLMV sin certificación o 100 % del SMLMV con certificación de disponibilidad.
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
           .tarjeta.bgfI02.w-100
             .p-4
-              p.text-center #[b Trabajador con período incompleto o novedad salarial:]
+              p.text-center #[b Trabajador con período incompleto o novedad salarial]
               p.text-center El IBC se calcula de manera proporcional mediante la fórmula: (IBC mensual ÷ 30) × número de días cotizados en el período.
     .row.justify-content-center.mb-4
       .col-lg-9.order-2.order-lg-1
@@ -147,23 +147,23 @@
       .col-lg-3.mb-4.mb-lg-0
         .bgf3.p-4.tarjeta.w-100.h-100
           img(src='@/assets/curso/temas/tema1/img15.svg', style="width:50px", alt='').mb-2
-          p.mb-0 #[b Método de determinación del IBC:]
+          p #[b Método de determinación del IBC]
           p Procedimiento aplicado para calcular la base de cotización del trabajador en el período, según su tipo de vinculación y remuneración.
       .col-lg-3.mb-4.mb-lg-0
         .bgf3.p-4.tarjeta.w-100.h-100
           img(src='@/assets/curso/temas/tema1/img16.svg', style="width:50px", alt='').mb-2
-          p.mb-0 #[b Conceptos salariales incluidos:]
+          p #[b Conceptos salariales incluidos]
           p Pagos de naturaleza salarial habitual que se incorporaron al IBC conforme al artículo 127 del CST, como el salario básico, las horas extras habituales y las comisiones regulares.
       .col-lg-3.mb-4.mb-lg-0    
         .bgf3.p-4.tarjeta.w-100.h-100
           img(src='@/assets/curso/temas/tema1/img17.svg', style="width:50px", alt='').mb-2
-          p.mb-0 #[b Conceptos excluidos y su justificación:]
+          p #[b Conceptos excluidos y su justificación]
           p Pagos expresamente catalogados como no salariales que se restaron del IBC conforme al artículo 128 del CST, con el fundamento normativo que respalda cada exclusión.
       .col-lg-3.mb-4.mb-lg-0  
         .bgf3.p-4.tarjeta.w-100.h-100
           img(src='@/assets/curso/temas/tema1/img18.svg', style="width:50px", alt='').mb-2
-          p.mb-0 #[b Cálculo de proporcionales en períodos incompletos:]
-          p resultado de aplicar la fórmula (IBC mensual ÷ 30) × días cotizados, con indicación del número de días reportados en la PILA.
+          p #[b Cálculo de proporcionales en períodos incompletos]
+          p Resultado de aplicar la fórmula (IBC mensual ÷ 30) × días cotizados, con indicación del número de días reportados en la PILA.
     p.mb-4
       | Esta documentación es la evidencia de soporte que el empleador presentará ante la UGPP en caso de una investigación y que le permitirá demostrar que la liquidación se realizó de acuerdo con la normativa vigente.
     p.mb-0
@@ -237,14 +237,14 @@
           img(src='@/assets/curso/temas/tema1/img23.svg' alt='AvatarTop')
           .tarjeta.bgf4.w-100
             .p-4
-              p.text-center #[b Horas extras habituales:]
+              p.text-center #[b Horas extras habituales]
               p.text-center El trabajador las recibe de manera regular y permanente como parte de su remuneración normal; por tanto, integran el IBC y generan obligación de cotización sobre ese valor.
       .col-lg-5
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img24.svg' alt='AvatarTop')
           .tarjeta.bgf4.w-100
             .p-4
-              p.text-center #[b Horas extras eventuales o excepcionales:] 
+              p.text-center #[b Horas extras eventuales o excepcionales] 
               p.text-center No forman parte de la remuneración regular del trabajador; por tanto, pueden acordarse como no constitutivas de salario y excluirse del IBC.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1
@@ -331,7 +331,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img28.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Tope del IBC para cotización: 
+        h5.text-center Tope del IBC para cotización
         p Un trabajador que devenga un salario superior al IBC máximo solo cotiza sobre $43.772.625, independientemente de cuánto devengue realmente.
         p Ejemplo:la gerente Laura Gómez devenga $55.000.000 mensuales. Su IBC para liquidar los aportes a salud no es $55.000.000 sino $43.772.625. El empleador calcula: $43.772.625 × 8,5 % = $3.720.673 de aporte patronal a salud. Si se calculara sobre el salario real, el aporte sería $55.000.000 × 8,5 % = $4.675.000, es decir, $954.327 más. El tope le representa al empleador un ahorro real en el costo laboral.
       .col-md.tarjeta.color-secundario.p-5
@@ -340,7 +340,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img29.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Aportes iguales para salarios distintos: 
+        h5.text-center Aportes iguales para salarios distintos
         p Dos trabajadores con salarios diferentes pero ambos superiores al IBC máximo pagan exactamente el mismo valor de aportes al sistema.
         p Ejemplo: el director Carlos Medina devenga $45.000.000 y el vicepresidente Andrés Torres devenga $90.000.000. Los dos cotizan sobre $43.772.625. Aportes a pensión de cada uno: $43.772.625 × 16 % = $7.003.620. Carlos y Andrés generan el mismo costo de seguridad social al empleador, a pesar de que Andrés gana el doble.
       .col-md.tarjeta.color-acento-contenido.p-5
@@ -349,7 +349,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img30.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Impacto en la proyección del costo laboral: 
+        h5.text-center Impacto en la proyección del costo laboral
         p En los paquetes de compensación ejecutiva, el costo de seguridad social no crece proporcionalmente con el salario a partir del IBC máximo, lo que debe reflejarse correctamente en el presupuesto de personal.
         p Ejemplo: la empresa proyecta contratar un gerente con salario de $50.000.000. El área financiera calcula erróneamente la carga prestacional sobre $50.000.000 × 30 % = $15.000.000. El valor correcto es $43.772.625 × 30 % = $13.131.788. La diferencia de $1.868.212 mensuales representa $22.418.544 de sobrestimación del costo laboral al año.
     .row.justify-content-center.align-items-center.mb-4
@@ -361,7 +361,7 @@
         p.mb-0.p-4.bgf1 El dominio de los métodos de cálculo para trabajadores dependientes cubre la mayoría de los casos de la operación diaria; sin embargo, las organizaciones con estructuras de contratación diversas también vinculan contratistas independientes, cuya base de cotización se determina mediante una regla específica establecida en la normativa colombiana.
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 1.4 Cálculo del IBC: trabajadores independientes y contratistas
+      h2 1.4 Cálculo del IBC: independientes y contratistas
     p.mb-4
       | Para los trabajadores independientes con contrato de prestación de servicios, el IBC se calcula sobre el 40 % del valor mensualizado del contrato. La mensualización consiste en dividir el valor total del contrato por el número de meses de duración y aplicar el 40% a ese resultado. Por ejemplo, si un contrato tiene un valor de $15.000.000 y una duración de tres meses, el valor mensualizado es $5.000.000 y el IBC es $5.000.000 × 40 % = $2.000.000. Si el contrato tiene un valor mensual ya establecido en el documento, se aplica directamente el 40 % sin necesidad de mensualizar.
     p.mb-4
@@ -520,13 +520,13 @@
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema1/img44.svg' alt='AvatarTop')
-        h5.text-center Actualización en el sistema de nómina: 
+        h5.text-center Actualización en el sistema de nómina
         p.text-center Los nuevos valores del SMLMV deben registrarse en el sistema de información desde el 1 de enero para garantizar que los IBC del año reflejen los topes correctos desde el primer período de liquidación.
       .tarjeta.p-5.BG04
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema1/img45.svg' alt='AvatarTop')
-        h5.text-center Riesgo por no actualización oportuna: 
+        h5.text-center Riesgo por no actualización oportuna
         p.text-center Calcular aportes sobre el SMLMV del año anterior produce diferencias acumuladas en todos los períodos del año que la UGPP detecta con facilidad al cruzar los registros de la PILA con los valores oficiales vigentes.
     p.mb-4
       | La actualización oportuna de los topes del IBC al inicio de cada año es una tarea crítica del cierre y apertura de nómina que debe estar documentada como parte del proceso de gestión de la seguridad social de la organización.
@@ -548,7 +548,7 @@
           .bottomCircle
             figure
               img(src="@/assets/curso/temas/tema1/img47.svg", alt="alt")
-          h5.text-center Primer mes laborado: 
+          h5.text-center Primer mes laborado
           p El IBC se calcula sobre el salario devengado en ese único mes, pues no existen meses anteriores para promediar. 
           p Ejemplo: Andrea ingresa en octubre y devenga $2.500.000. Su IBC de octubre es $2.500.000.
       .col-lg-3.mb-4.mb-lg-0
@@ -556,7 +556,7 @@
           .bottomCircle
             figure
               img(src="@/assets/curso/temas/tema1/img48.svg", alt="alt")
-          h5.text-center Segundo mes laborado: 
+          h5.text-center Segundo mes laborado
           p El IBC se calcula sobre el promedio de los dos meses disponibles.
           p Ejemplo: en noviembre Andrea devenga $2.800.000. Su IBC es ($2.500.000 + $2.800.000) ÷ 2 = $2.650.000.
       .col-lg-3.mb-4.mb-lg-0
@@ -564,7 +564,7 @@
           .bottomCircle
             figure
               img(src="@/assets/curso/temas/tema1/img49.svg", alt="alt")
-          h5.text-center Tercer mes laborado: 
+          h5.text-center Tercer mes laborado
           p El IBC se calcula sobre el promedio de los tres meses disponibles.
           p Ejemplo: en diciembre Andrea devenga $3.000.000. Su IBC es ($2.500.000 + $2.800.000 + $3.000.000) ÷ 3 = $2.766.667.
       .col-lg-3.mb-4.mb-lg-0
@@ -572,7 +572,7 @@
           .bottomCircle
             figure
               img(src="@/assets/curso/temas/tema1/img50.svg", alt="alt")
-          h5.text-center Cuarto mes laborado: 
+          h5.text-center Cuarto mes laborado
           p Se aplica plenamente la regla del promedio de los tres meses anteriores, con independencia del tiempo que lleve el trabajador en la empresa.
     p.mb-4
       | Este período de transición debe manejarse con cuidado en el sistema de nómina para garantizar que los IBC iniciales sean correctos y no generen inconsistencias que la UGPP detecte en períodos posteriores.
@@ -585,7 +585,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img51.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Licencia de maternidad: 
+        h5.text-center Licencia de maternidad
         p El IBC corresponde al valor de la licencia pagada por la EPS, equivalente al 100 % del salario de la trabajadora. Los aportes a pensión y ARL continúan sobre este IBC; la cotización a salud la asume directamente la EPS.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
@@ -593,7 +593,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img52.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Incapacidad por enfermedad general: 
+        h5.text-center Incapacidad por enfermedad general
         p El IBC se segrega entre los días laborados, calculados sobre el salario proporcional, y los días de incapacidad, calculados sobre el valor del subsidio pagado por la EPS al 66,67 %.
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
@@ -601,7 +601,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img53.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Suspensión del contrato: 
+        h5.text-center Suspensión del contrato
         p Durante los días de suspensión no hay obligación de cotizar, pues no existe remuneración ni subsidio. El IBC del período se calcula únicamente sobre los días efectivamente laborados antes y después de la suspensión.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10

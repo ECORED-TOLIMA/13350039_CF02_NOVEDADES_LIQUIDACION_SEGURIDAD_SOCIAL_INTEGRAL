@@ -74,16 +74,16 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4
             .row(titulo="Aportante") 
               p.mb-0
-                | persona natural o jurídica responsable de reportar y pagar los aportes. Puede ser un empleador, un trabajador independiente, un contratante o un cotizante voluntario.
+                | Persona natural o jurídica responsable de reportar y pagar los aportes. Puede ser un empleador, un trabajador independiente, un contratante o un cotizante voluntario.
             .row(titulo="Operador de información PILA") 
               p.mb-4
-                | persona jurídica autorizada para procesar la planilla, validar la información registrada, generar el comprobante de pago y distribuir los recursos a las entidades correspondientes.
+                | Persona jurídica autorizada para procesar la planilla, validar la información registrada, generar el comprobante de pago y distribuir los recursos a las entidades correspondientes.
             .row(titulo="Entidades administradoras") 
               p.mb-4
-                | instituciones que reciben los aportes, como EPS, AFP, ARL, cajas de compensación familiar, SENA e ICBF, según el tipo de cotizante y la obligación reportada.
+                | Instituciones que reciben los aportes, como EPS, AFP, ARL, cajas de compensación familiar, SENA e ICBF, según el tipo de cotizante y la obligación reportada.
             .row(titulo="Entidades de control") 
               p.mb-4
-                | organismos que verifican el cumplimiento de las obligaciones, entre ellos la Unidad de Gestión Pensional y Parafiscal (UGPP), que puede revisar inconsistencias, omisiones o diferencias en los aportes.
+                | Organismos que verifican el cumplimiento de las obligaciones, entre ellos la Unidad de Gestión Pensional y Parafiscal (UGPP), que puede revisar inconsistencias, omisiones o diferencias en los aportes.
      
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-2.order-lg-1
@@ -148,31 +148,31 @@
           .row(numero="1" titulo="Planilla tipo E — Empleador")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | aplica para empleadores con trabajadores dependientes vinculados mediante contrato laboral. Permite reportar el IBC, las entidades de afiliación, los aportes y las novedades del período.
+                | Aplica para empleadores con trabajadores dependientes vinculados mediante contrato laboral. Permite reportar el IBC, las entidades de afiliación, los aportes y las novedades del período.
           .row(numero="2" titulo="Planilla tipo T — Independiente con contrato")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | se utiliza para contratistas independientes con contrato de prestación de servicios. En esta modalidad, el IBC corresponde al 40 % del valor mensualizado del contrato, respetando los topes legales.
+                | Se utiliza para contratistas independientes con contrato de prestación de servicios. En esta modalidad, el IBC corresponde al 40 % del valor mensualizado del contrato, respetando los topes legales.
           .row(numero="3" titulo="Planilla tipo Y — Independiente sin contrato")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | aplica para trabajadores independientes que no tienen contrato de prestación de servicios, como rentistas, comerciantes o profesionales que ejercen su actividad de manera autónoma.
+                | Aplica para trabajadores independientes que no tienen contrato de prestación de servicios, como rentistas, comerciantes o profesionales que ejercen su actividad de manera autónoma.
           .row(numero="4" titulo="Planilla tipo X — Cotizante voluntario")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | se utiliza cuando una persona sin vínculo laboral busca mantener la cobertura en salud de forma voluntaria, de acuerdo con las condiciones permitidas por el sistema.
+                | Se utiliza cuando una persona sin vínculo laboral busca mantener la cobertura en salud de forma voluntaria, de acuerdo con las condiciones permitidas por el sistema.
           .row(numero="5" titulo="Planilla tipo N — Empleador nuevo")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | aplica para empleadores que realizan su primer pago y aún no cuentan con historial previo en el sistema.
+                | Aplica para empleadores que realizan su primer pago y aún no cuentan con historial previo en el sistema.
           .row(numero="6" titulo="Planilla tipo A — Corrección")
             .col-md-12.mb-4.mb-md-0
               p.mb-0
-                | permite ajustar información de planillas ya transmitidas, cuando se detectan errores en el IBC, las novedades, los datos del cotizante o los valores liquidados.
+                | Permite ajustar información de planillas ya transmitidas, cuando se detectan errores en el IBC, las novedades, los datos del cotizante o los valores liquidados.
           .row(numero="7" titulo="Planilla de anulación")
             .col-md-12.mb-4.mb-md-0
               p.mb-4
-                | se usa para dejar sin efecto una planilla incorrecta, siempre que el caso cumpla las condiciones y los plazos definidos por el operador y la normativa aplicable.
+                | Se usa para dejar sin efecto una planilla incorrecta, siempre que el caso cumpla las condiciones y los plazos definidos por el operador y la normativa aplicable.
     .BG06.px-5
       p.mb-4
         | Estas planillas permiten atender diferentes situaciones de pago y corrección. Por ello, antes de seleccionar una opción, el profesional de nómina debe verificar el tipo de vinculación, la obligación que se reporta y las instrucciones vigentes del operador de información.
@@ -526,23 +526,23 @@
             figure
               img(src='@/assets/curso/temas/tema3/img25.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Aportes a cargo del trabajador
-        p.mb-0.text-center Corresponden a los valores que asume la organización por salud patronal, pensión, riesgos laborales y aportes parafiscales, cuando apliquen.
+        h5.text-center Aportes a cargo del empleador
+        p.mb-0.text-center corresponden a los valores que asume la organización por salud patronal, pensión, riesgos laborales y aportes parafiscales, cuando apliquen. 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema3/img26.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Valores compensables o por recuperar
-        p.mb-0.text-center Corresponden a los valores descontados del salario, como el 4 % de salud, el 4 % de pensión y el aporte al Fondo de Solidaridad Pensional, cuando corresponda.
+        h5.text-center Aportes a cargo del trabajador
+        p.mb-0.text-center Corresponden a los valores descontados del salario, como el 4 % de salud, el 4 % de pensión y el aporte al Fondo de Solidaridad Pensional, cuando corresponda. 
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema3/img27.svg', alt='Texto que describa la imagen')
           
-        h5.text-center Pensionados  
+        h5.text-center Valores compensables o por recuperar:   
         p.mb-0.text-center Corresponden a pagos anticipados por el empleador que pueden ser reconocidos o compensados por la entidad administradora, según la normativa y los soportes exigidos.
     p.mb-4
       | Estos elementos permiten identificar si el valor registrado corresponde a un gasto de la empresa, una retención al trabajador o una cuenta por cobrar a una entidad del sistema. Por ello, el área de nómina debe entregar a contabilidad la información clara, completa y conciliada con la planilla pagada.
