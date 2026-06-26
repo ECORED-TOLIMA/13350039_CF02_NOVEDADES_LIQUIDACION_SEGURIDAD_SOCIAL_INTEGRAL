@@ -150,7 +150,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img11.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La cotización al Sistema General de Pensiones es del 16 % del IBC, distribuida en un 12 % a cargo del empleador y un 4 % a cargo del trabajador. El sistema colombiano ofrece dos regímenes entre los cuales el trabajador elige al momento de vincularse: el Régimen de Prima Media con Prestación Definida (RPM), administrado por Colpensiones, en el que los aportes van a un fondo común y la pensión es pagada por el Estado al cumplir los requisitos de edad y semanas cotizadas; y el Régimen de Ahorro Individual con Solidaridad (RAIS), administrado por las AFP privadas (Protección, Porvenir, Colfondos, Skandia), en el que cada afiliado acumula su propio capital en una cuenta individual y el valor de la pensión futura depende del monto acumulado.
+        p.mb-0 La cotización al Sistema General de Pensiones es del 16 % del IBC, distribuida en un 12 % a cargo del empleador y un 4 % a cargo del trabajador. El sistema colombiano ofrece dos regímenes entre los cuales el trabajador elige al momento de vincularse: el #[b Régimen de Prima Media con Prestación Definida (RPM)], administrado por Colpensiones, en el que los aportes van a un fondo común y la pensión es pagada por el Estado al cumplir los requisitos de edad y semanas cotizadas; y el #[b Régimen de Ahorro Individual con Solidaridad (RAIS)], administrado por las AFP privadas (Protección, Porvenir, Colfondos, Skandia), en el que cada afiliado acumula su propio capital en una cuenta individual y el valor de la pensión futura depende del monto acumulado.
     p.mb-4
       | Independientemente del régimen elegido, los porcentajes de cotización son idénticos, la diferencia no está en cuánto se cotiza sino en cómo se administran y acumulan los recursos para generar la futura pensión del trabajador.
     .row.justify-content-center.align-items-center.mb-4
@@ -498,7 +498,7 @@
         p.mb-0
           | Una empresa declarante del impuesto sobre la renta tiene un trabajador con salario mensual de $2.000.000. Si cumple las condiciones legales del artículo 114-1 del Estatuto Tributario, no liquida aportes al SENA, al ICBF ni la cotización patronal a salud por ese trabajador, porque su salario individual es inferior a 10 SMLMV. Sin embargo, debe mantener los aportes que no estén cobijados por la exoneración, como los correspondientes a pensión, riesgos laborales y Caja de Compensación Familiar, según aplique.
     p.mb-4
-      | Este ejemplo muestra que la exoneración no se aplica de forma automática ni general a toda la nómina. Antes de usarla, se debe revisar el tipo de empleador, el ingreso individual del trabajador y el aporte específico que se pretende excluir. Esta verificación protege a la organización frente a inconsistencias en la liquidación y posibles revisiones de la UGPP.
+      | Este ejemplo muestra que la exoneración no se aplica de forma automática ni general a toda la nómina. Antes de usarla, se debe revisar #[b el tipo de empleador, el ingreso individual] del trabajador y #[b el aporte específico] que se pretende excluir. Esta verificación protege a la organización frente a inconsistencias en la liquidación y posibles revisiones de la UGPP.
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
       h5 Controles para aplicar exoneraciones

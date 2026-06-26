@@ -186,8 +186,8 @@
           .tarjeta.p-4(style="background-color:#F9CE5D; border-radius: 0 0 20px 20px;")
             .tarjeta.bg-white.p-4.custom-audio-card
               TarjetaAudio.color-acento-botones(
-                texto="POSTCAT"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                texto="El contrato de prestación de servicios y la seguridad social"
+                :audio="require('@/assets/actividad/audio/Podcast.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
