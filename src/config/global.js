@@ -196,7 +196,7 @@
     {
       termino: 'Ingreso Base de Cotización (IBC)',
       significado:
-        'valor mensual sobre el que se aplican los porcentajes de cotización al Sistema de Seguridad Social Integral. Para trabajadores dependientes equivale al salario devengado (mínimo 1 SMLMV, máximo 25 SMLMV); para independientes corresponde al 40 % del valor mensualizado del contrato.',
+        'valor mensual sobre el que se aplican los porcentajes de cotización al Sistema de Seguridad Social Integral. Para trabajadores dependientes, equivale al salario devengado (mínimo 1 SMLMV, máximo 25 SMLMV); para independientes, corresponde al 40 % del valor mensualizado del contrato.',
     },
     {
       termino: 'Operador de Información PILA (OI)',
@@ -294,7 +294,7 @@
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Centro Agroturistico - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Diana Rocío Possos Beltrán',

@@ -67,7 +67,7 @@
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema3/img4.png', alt='')
-    p.mb-4 Para comprender su funcionamiento, es necesario identificar los actores que intervienen en el proceso:
+    p.mb-4 Para comprender su funcionamiento, es necesario identificar a los actores que intervienen en el proceso:
     .BG02.px-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-10
@@ -126,7 +126,7 @@
                 | incluyen ingresos, retiros, variaciones salariales, incapacidades, licencias, suspensiones u otros eventos que modifican la cotización.
             li 
               .lista-ol--cuadro__vineta
-                span F
+                span E
               p.mb-0
                 b Entidades receptoras: 
                 | corresponden a la EPS, AFP, ARL, caja de compensación familiar y demás entidades a las que se trasladan los aportes.
@@ -174,10 +174,8 @@
               p.mb-4
                 | Se usa para dejar sin efecto una planilla incorrecta, siempre que el caso cumpla las condiciones y los plazos definidos por el operador y la normativa aplicable.
     .BG06.px-5
-      p.mb-4
-        | Estas planillas permiten atender diferentes situaciones de pago y corrección. Por ello, antes de seleccionar una opción, el profesional de nómina debe verificar el tipo de vinculación, la obligación que se reporta y las instrucciones vigentes del operador de información.
-      p.mb-4
-        | Con el propósito de profundizar en el funcionamiento de los mecanismos de pago de aportes al Sistema de Seguridad Social Integral, se propone el siguiente recurso de audio sobre los tipos de planilla PILA y su correcta selección según el vínculo del cotizante. Este material aborda, de manera clara y contextualizada, las diferencias entre cada tipo de planilla, las situaciones en que aplica cada una y los procedimientos disponibles para corregir o anular una planilla cuando se detectan errores en la información transmitida al sistema.
+      p.mb-4 Estas planillas permiten atender diferentes situaciones de pago y corrección. Por ello, antes de seleccionar una opción, el profesional de nómina debe verificar el tipo de vinculación, la obligación que se reporta y las instrucciones vigentes del operador de información.
+      p.mb-4 Con el propósito de profundizar en el funcionamiento de los mecanismos de pago de aportes al Sistema de Seguridad Social Integral, se propone el siguiente recurso de audio sobre los tipos de planilla PILA y su correcta selección según el vínculo del cotizante. Este material aborda, de manera clara y contextualizada, las diferencias entre cada tipo de planilla, las situaciones en que aplica cada una y los procedimientos disponibles para corregir o anular una planilla cuando se detectan errores en la información transmitida al sistema.
       
       .row.justify-content-center.mb-4
         .col-lg-10
@@ -186,20 +184,17 @@
           .tarjeta.p-4(style="background-color:#F9CE5D; border-radius: 0 0 20px 20px;")
             .tarjeta.bg-white.p-4.custom-audio-card
               TarjetaAudio.color-acento-botones(
-                texto="El contrato de prestación de servicios y la seguridad social"
+                texto="Tipos de planilla PILA"
                 :audio="require('@/assets/actividad/audio/Podcast.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-    p.mb-0
-      | Una vez identificados los tipos de planilla y los actores que intervienen en el proceso, el siguiente paso consiste en revisar cómo se elabora y diligencia la PILA. Este procedimiento exige verificar la nómina del período, calcular el IBC, registrar las novedades, validar los aportes y confirmar que la información transmitida sea completa, correcta y oportuna.
+    p.mb-0 Una vez identificados los tipos de planilla y los actores que intervienen en el proceso, el siguiente paso consiste en revisar cómo se elabora y diligencia la PILA. Este procedimiento exige verificar la nómina del período, calcular el IBC, registrar las novedades, validar los aportes y confirmar que la información transmitida sea completa, correcta y oportuna.
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.2 Elaboración y diligenciamiento
-    p.mb-4
-      | La elaboración y el diligenciamiento de la Planilla Integrada de Liquidación de Aportes (PILA) constituyen una etapa operativa clave en la gestión de nómina. En este proceso se registra la información del período, se calculan los aportes, se validan los datos y se realiza el pago mediante el operador de información. Por esta razón, cada dato ingresado debe corresponder con la nómina, las afiliaciones, las novedades y los soportes del período.
-    p.mb-4
-      | Este procedimiento exige una revisión ordenada antes del envío de la planilla al operador de información. Para ello, el profesional de nómina debe confirmar que:
+    p.mb-4 La elaboración y el diligenciamiento de la Planilla Integrada de Liquidación de Aportes (PILA) constituyen una etapa operativa clave en la gestión de nómina. En este proceso se registra la información del período, se calculan los aportes, se validan los datos y se realiza el pago mediante el operador de información. Por esta razón, cada dato ingresado debe corresponder con la nómina, las afiliaciones, las novedades y los soportes del período.
+    p.mb-4 Este procedimiento exige una revisión ordenada antes del envío de la planilla al operador de información. Para ello, el profesional de nómina debe confirmar que:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgfI01
@@ -207,11 +202,11 @@
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
-                | Los trabajadores activos estén incluidos en la planilla del período.
+                | Los trabajadores activos están incluidos en la planilla del período.
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
-                | Los ingresos y retiros estén reportados con la fecha correcta.
+                | Los ingresos y retiros están reportados con la fecha correcta.
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
@@ -219,7 +214,7 @@
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
-                | Las novedades del período estén registradas con el código correspondiente.
+                | Las novedades del período están registradas con el código correspondiente.
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
@@ -227,7 +222,7 @@
             li
               i.fas.fa-user(style="color: #FFB758;")
               p.mb-0
-                | Los valores liquidados coincidan con los cálculos internos de nómina.
+                | Los valores liquidados coinciden con los cálculos internos de nómina.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
@@ -235,42 +230,42 @@
       .col-lg-9
         p Esta verificación reduce errores de liquidación y evita inconsistencias ante las entidades del sistema. Además, permite revisar la información antes del pago y conservar soportes claros frente a posibles auditorías o requerimientos de la Unidad de Gestión Pensional y Parafiscal (UGPP).
         p.mb-0
-          | Para elaborar correctamente la planilla, se recomienda seguir una revisión que permita controlar la información antes del pago. Esta organización facilita la trazabilidad del proceso y reduce el riesgo de inconsistencias entre la nómina, el operador de información, las entidades administradorasy la validación de los siguientes aspectos:
+          | Para elaborar correctamente la planilla, se recomienda seguir una revisión que permita controlar la información antes del pago. Esta organización facilita la trazabilidad del proceso y reduce el riesgo de inconsistencias entre la nómina, el operador de información, las entidades administradoras y la validación de los siguientes aspectos:
     SlyderF(columnas="col-lg-6 col-xl-4").mb-4
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img9.svg' alt='')
         h5.text-center Verificar la nómina del período
         p.text-center Confirmar que la información registrada corresponda con los trabajadores activos, los salarios pagados y las novedades reportadas.
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img10.svg' alt='')
         h5.text-center Determinar el IBC individual
         p.text-center Calcular la base de cotización según el salario, los días cotizados, el tipo de vinculación y las novedades del período.
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img11.svg' alt='')
         h5.text-center Aplicar los porcentajes de cotización
         p.text-center Liquidar los aportes a salud, pensión, riesgos laborales y parafiscales, de acuerdo con el tipo de cotizante y las reglas vigentes.
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img11_2.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img11_2.svg' alt='')
         h5.text-center Registrar la información en el operador
         p.text-center Ingresar los datos en la plataforma o cargar el archivo generado desde el sistema de nómina.
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img11_3.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img11_3.svg' alt='')
         h5.text-center Validar los datos antes del pago
         p.text-center Revisar identificaciones, entidades administradoras, valores liquidados, topes del IBC y códigos de novedad.
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
-            img(src='@/assets/curso/temas/tema3/img11_4.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img11_4.svg' alt='')
         h5.text-center Conservar los soportes
         p.text-center Guardar la planilla pagada, el comprobante de pago, la nómina liquidada y los documentos que respalden las novedades del período.
     p.mb-4
@@ -281,7 +276,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-1.d-none.d-lg-block.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema3/img12.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema3/img12.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 Una planilla bien elaborada no depende solo del cálculo de aportes; requiere verificar la nómina, el IBC, las novedades y las entidades administradoras antes del pago.
     p.mb-4 Durante el registro de la información, el operador realiza validaciones automáticas sobre los datos cargados. Estas revisiones pueden alertar sobre documentos de identidad incorrectos, entidades no vigentes, IBC fuera de los topes permitidos o novedades incompatibles con el período reportado. Si se presentan alertas, deben corregirse antes de confirmar el pago.
@@ -351,7 +346,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-1.d-none.d-lg-block.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema3/img17.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema3/img17.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 El pago oportuno de la PILA evita intereses de mora, protege la historia de aportes del trabajador y demuestra el cumplimiento de las obligaciones del aportante.
     .row.justify-content-center.mb-4
@@ -486,7 +481,7 @@
           ImagenInfografica.color-acento-botones.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema3/img23.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img23.svg', alt='')
             .tarjeta.color-acento-botones.p-3(x="13%" y="45%" numero="+")
               p Verificar el período, el número de planilla, el estado del pago y los trabajadores incluidos.
             .tarjeta.color-acento-botones.p-3(x="28%" y="17%" numero="+")
@@ -496,7 +491,6 @@
             .tarjeta.color-acento-botones.p-3(x="70.5%" y="17%" numero="+")
               p Establecer si existen valores adicionales por pagar, saldos a favor o intereses moratorios.
             .tarjeta.color-acento-botones.p-3(x="86.5%" y="45%" numero="+")
-              .h5.mb-2 titulo
               p Guardar la planilla inicial, la planilla corregida, los comprobantes de pago, las comunicaciones con el operador y los documentos que justifican el ajuste.
         .d-block.d-lg-none
           figure
@@ -524,15 +518,15 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img25.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img25.svg', alt='')
           
         h5.text-center Aportes a cargo del empleador
-        p.mb-0.text-center corresponden a los valores que asume la organización por salud patronal, pensión, riesgos laborales y aportes parafiscales, cuando apliquen. 
+        p.mb-0.text-center Corresponden a los valores que asume la organización por salud patronal, pensión, riesgos laborales y aportes parafiscales, cuando apliquen. 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img26.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img26.svg', alt='')
           
         h5.text-center Aportes a cargo del trabajador
         p.mb-0.text-center Corresponden a los valores descontados del salario, como el 4 % de salud, el 4 % de pensión y el aporte al Fondo de Solidaridad Pensional, cuando corresponda. 
@@ -540,7 +534,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img27.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img27.svg', alt='')
           
         h5.text-center Valores compensables o por recuperar:   
         p.mb-0.text-center Corresponden a pagos anticipados por el empleador que pueden ser reconocidos o compensados por la entidad administradora, según la normativa y los soportes exigidos.
@@ -552,7 +546,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema2/img28.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema2/img28.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 El registro contable de los aportes garantiza coherencia entre la nómina, la PILA y la información financiera de la organización.
     p.mb-4

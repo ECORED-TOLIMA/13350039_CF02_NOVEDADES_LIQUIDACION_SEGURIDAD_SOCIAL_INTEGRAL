@@ -35,22 +35,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'El 100% del valor mensualizado del contrato.',
+              texto: 'El 100 % del valor mensualizado del contrato.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El 50% del valor mensualizado del contrato.',
+              texto: 'El 50 % del valor mensualizado del contrato.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El 40% del valor mensualizado del contrato.',
+              texto: 'El 40 % del valor mensualizado del contrato.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'El 30% del valor mensualizado del contrato.',
+              texto: 'El 30 % del valor mensualizado del contrato.',
               esCorrecta: false,
             },
           ],
@@ -234,22 +234,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '8,5%.',
+              texto: '8,5 %.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '10%.',
+              texto: '10 %.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '12,5%.',
+              texto: '12,5 %.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: '16%.',
+              texto: '16 %.',
               esCorrecta: false,
             },
           ],
@@ -261,28 +261,28 @@ export default {
         {
           id: 8,
           texto:
-            'En el Sistema General de Salud, ¿cómo se distribuye el aporte del 12,5% entre empleador y trabajador?',
+            'En el Sistema General de Salud, ¿cómo se distribuye el aporte del 12,5 % entre empleador y trabajador?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Empleador 8,5% — Trabajador 4%.',
+              texto: 'Empleador 8,5 % — Trabajador 4 %.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Empleador 6% — Trabajador 6,5%.',
+              texto: 'Empleador 6 % — Trabajador 6,5 %.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Empleador 10% — Trabajador 2,5%.',
+              texto: 'Empleador 10 % — Trabajador 2,5 %.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Empleador 12,5% — Trabajador 0%.',
+              texto: 'Empleador 12,5 % — Trabajador 0 %.',
               esCorrecta: false,
             },
           ],
@@ -300,22 +300,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '12%.',
+              texto: '12 %.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '14%.',
+              texto: '14 %.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '16%.',
+              texto: '16 %.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: '20%.',
+              texto: '20 %.',
               esCorrecta: false,
             },
           ],
@@ -649,17 +649,18 @@ export default {
             },
             {
               id: 'b',
-              texto: 'IBC = $3.200.000 (40%); aporte pensión = $512.000 (16%).',
+              texto:
+                'IBC = $3.200.000 (40 %); aporte pensión = $512.000 (16 %).',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'IBC = $4.000.000 (50%); aporte pensión = $640.000.',
+              texto: 'IBC = $4.000.000 (50 %); aporte pensión = $640.000.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'IBC = $2.400.000 (30%); aporte pensión = $384.000.',
+              texto: 'IBC = $2.400.000 (30 %); aporte pensión = $384.000.',
               esCorrecta: false,
             },
           ],

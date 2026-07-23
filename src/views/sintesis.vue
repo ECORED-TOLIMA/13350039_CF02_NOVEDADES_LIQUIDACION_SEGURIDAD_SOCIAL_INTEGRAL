@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual del componente Liquidación y registro en la Planilla Integrada de Seguridad Social (PILA), con sus ejes temáticos: IBC, regímenes de afiliación, PILA, novedades, corrección, plazos de pago y registro contable.")
+          img(src="@/assets/curso/sintesis.svg", alt="El mapa conceptual titulado Liquidación y registro en la Planilla Integrada de Seguridad Social (PILA) comprende cuatro ejes temáticos: el Ingreso Base de Cotización (IBC), con su cálculo y topes normativos; los regímenes de afiliación y los porcentajes de cotización al sistema; los tipos de planilla PILA, su elaboración y los plazos de pago; y los mecanismos de control, corrección y registro contable de los aportes, ejes que en conjunto integran los fundamentos técnicos y normativos para liquidar correctamente los aportes al Sistema de Seguridad Social Integral colombiano.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

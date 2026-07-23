@@ -13,7 +13,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img1.svg', alt='')
           .col-lg-10
-            p.mb-0 Los regímenes de afiliación al Sistema de Seguridad Social Integral determinan el marco dentro del cual el cotizante realiza sus aportes y tiene derecho a las prestaciones del sistema. Cada componente del sistema de salud, pensiones y riesgos laboralestiene sus propios regímenes, con características, porcentajes de cotización y beneficios diferenciados. El conocimiento preciso de estos regímenes es indispensable para calcular correctamente los aportes de cada cotizante y garantizar que la PILA refleje la realidad de las afiliaciones vigentes.
+            p.mb-0 Los regímenes de afiliación al Sistema de Seguridad Social Integral determinan el marco dentro del cual el cotizante realiza sus aportes y tiene derecho a las prestaciones del sistema. Cada componente del sistema de salud, pensiones y riesgos laborales tiene sus propios regímenes, con características, porcentajes de cotización y beneficios diferenciados. El conocimiento preciso de estos regímenes es indispensable para calcular correctamente los aportes de cada cotizante y garantizar que la PILA refleje la realidad de las afiliaciones vigentes.
         p.mb-0 La determinación de los porcentajes aplicables a cada cotizante depende de múltiples variables que el profesional de nómina debe identificar con precisión antes de iniciar cualquier liquidación. Cada variable incide de manera directa en el valor de los aportes y en la distribución de la obligación entre el empleador y el trabajador. Las variables que determinan el perfil de cotización de cada cotizante son:
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
@@ -46,14 +46,13 @@
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.1 Régimen contributivo de salud
-    p.mb-4
-      | El régimen contributivo del Sistema General de Seguridad Social en Salud está dirigido a las personas con capacidad de pago, es decir, aquellas que cuentan con ingresos suficientes para contribuir al sistema y acceder a la cobertura en salud para ellas y sus beneficiarios. Este régimen diferencia el tratamiento de los aportes según el tipo de vinculación del cotizante, pues cada modalidad tiene reglas específicas sobre quién asume el aporte, sobre qué base se calcula y a qué entidad se traslada. Los cotizantes que pertenecen a este régimen son:
+    p.mb-4 El régimen contributivo del Sistema General de Seguridad Social en Salud está dirigido a las personas con capacidad de pago, es decir, aquellas que cuentan con ingresos suficientes para contribuir al sistema y acceder a la cobertura en salud para ellas y sus beneficiarios. Este régimen diferencia el tratamiento de los aportes según el tipo de vinculación del cotizante, pues cada modalidad tiene reglas específicas sobre quién asume el aporte, sobre qué base se calcula y a qué entidad se traslada. Los cotizantes que pertenecen a este régimen son:
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img4.svg', alt='')
           
         h5.text-center Trabajadores dependientes  
         p.mb-0.text-center Son quienes tienen un contrato laboral vigente con un empleador. El aporte total a salud es del 12,5 % del IBC, distribuido entre el empleador (8,5 %) y el trabajador (4 %). El empleador retiene la parte del trabajador de su salario y traslada el total a la EPS a través de la PILA.
@@ -62,7 +61,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img5.svg', alt='')
           
         h5.text-center Trabajadores independientes   
         p.mb-0.text-center Son quienes tienen contratos de prestación de servicios o ejercen su actividad de forma autónoma con ingresos iguales o superiores a un SMLMV. Asumen el 100 % del aporte a salud (12,5 %) sobre el IBC correspondiente al 40 % del valor mensualizado del contrato o sobre sus ingresos netos declarados.
@@ -71,19 +70,18 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img6.svg', alt='')
           
         h5.text-center Pensionados  
         p.mb-0.text-center Son quienes reciben una mesada pensional y deben continuar cotizando al sistema de salud sobre el valor de su pensión. La tarifa es del 12 % de la mesada pensional, sin distribución entre empleador y trabajador, pues el pensionado asume el total del aporte.
         p.mb-0.text-center Ejemplo: pensionado con mesada de $2.500.000. Aporte a salud: $2.500.000 × 12 % = $300.000, descontados directamente de la mesada por la entidad pagadora de la pensión.
-    p.mb-4
-      | Los tres perfiles de cotizante comparten la misma EPS como entidad receptora de los aportes, pero difieren en la base de cotización, el porcentaje aplicable y el responsable del pago, diferencias que el profesional de nómina debe conocer con precisión para garantizar que cada planilla PILA refleje correctamente la realidad de las afiliaciones vigentes.
+    p.mb-4 Los tres perfiles de cotizante comparten la misma EPS como entidad receptora de los aportes, pero difieren en la base de cotización, el porcentaje aplicable y el responsable del pago, diferencias que el profesional de nómina debe conocer con precisión para garantizar que cada planilla PILA refleje correctamente la realidad de las afiliaciones vigentes.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='')
       .col-lg-9
-        p.mb-0.p-4.bgf1 La cotización total en este régimen es del 12,5 % del IBC, distribuida entre el empleador (8,5 %) y el trabajador (4 %). Esta distribución significa que por cada $1.750.905 de IBC (equivalente a 1 SMLMV en 2026), el empleador debe pagar $148.827 a la EPS y el trabajador debe asumir $70.036, valor que el empleador retiene de su salario y traslada al sistema a través de la PILA.
+        p.mb-0.p-4.bgf1 La cotización total en este régimen es del 12,5 % del IBC, distribuida entre el empleador (8,5 %) y el trabajador (4 %). Esta distribución significa que, por cada $1.750.905 de IBC (equivalente a 1 SMLMV en 2026), el empleador debe pagar $148.827 a la EPS y el trabajador debe asumir $70.036, valor que el empleador retiene de su salario y traslada al sistema a través de la PILA.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-1.order-lg-2
         p El pago del 12,5 % da derecho al afiliado y a sus beneficiarios (cónyuge o compañero permanente e hijos menores de 18 años, o hasta 25 años si estudian y dependen económicamente del afiliado) a los servicios incluidos en el Plan de Beneficios en Salud (PBS). El PBS es el catálogo de servicios, medicamentos, procedimientos y tecnologías en salud que las EPS deben garantizar a sus afiliados, definido mediante resolución del Ministerio de Salud. Desde 2022, el PBS es igual para los regímenes contributivo y subsidiado, aunque las condiciones de acceso pueden diferir.
@@ -92,7 +90,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img8.svg', alt='')
           .col-lg-10
-            p.mb-0 Un aspecto técnico importante para la liquidación es la diferencia entre la cotización de los trabajadores activos y la de los pensionados. Los pensionados activos que reciben su mesada, pero continúan laborando deben cotizar a salud sobre el valor de la pensión y sobre el salario simultáneamente, pero en la práctica existe un mecanismo de coordinación entre las entidades para evitar la doble cotización. El pensionado que no trabaja cotiza únicamente sobre su mesada pensional a una tarifa del 12 %, sin distribución entre empleador y trabajador, pues no existe empleador en esa relación.
+            p.mb-0 Un aspecto técnico importante para la liquidación es la diferencia entre la cotización de los trabajadores activos y la de los pensionados. Los pensionados activos que reciben su mesada, pero continúan laborando, deben cotizar a salud sobre el valor de la pensión y sobre el salario simultáneamente, pero en la práctica existe un mecanismo de coordinación entre las entidades para evitar la doble cotización. El pensionado que no trabaja cotiza únicamente sobre su mesada pensional a una tarifa del 12 %, sin distribución entre empleador y trabajador, pues no existe empleador en esa relación.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema2/img9.png', alt='')
@@ -122,24 +120,24 @@
               tbody
                 tr(style="background-color: #FBF7F1;")
                   td Trabajador dependiente con salario.
-                  td 8,5% del IBC.
-                  td 4% del IBC / Total: 12,5%.
+                  td 8,5 % del IBC.
+                  td 4% del IBC / Total: 12,5 %.
                 tr
                   td Trabajador independiente con contrato.
                   td 0% (no hay empleador).
-                  td 12,5% sobre IBC (40% honorarios).
+                  td 12,5 % sobre IBC (40 % honorarios).
                 tr(style="background-color: #FBF7F1;")
                   td Pensionado activo (sin trabajar).
-                  td 0%.
-                  td 12% sobre mesada pensional.
+                  td 0 %.
+                  td 12 % sobre mesada pensional.
                 tr
                   td Pensionado que trabaja simultáneamente.
-                  td 8,5% sobre salario.
-                  td 4% sobre salario + cotización sobre pensión.
+                  td 8,5 % sobre salario.
+                  td 4 % sobre salario + cotización sobre pensión.
                 tr(style="background-color: #FBF7F1;")
                   td Aprendiz (fase productiva).
-                  td 8,5% sobre apoyo de sostenimiento.
-                  td 4% sobre apoyo de sostenimiento.
+                  td 8,5 % sobre apoyo de sostenimiento.
+                  td 4 % sobre apoyo de sostenimiento.
     p.mb-4
       | Establecidos los porcentajes de cotización al sistema de salud, el proceso de liquidación continúa con el cálculo de los aportes al Sistema General de Pensiones, que comparte la misma base de cotización, pero tiene una estructura de distribución propia y, para los trabajadores de ingresos más altos, un aporte adicional destinado a la solidaridad del sistema.
     Separador
@@ -151,16 +149,15 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La cotización al Sistema General de Pensiones es del 16 % del IBC, distribuida en un 12 % a cargo del empleador y un 4 % a cargo del trabajador. El sistema colombiano ofrece dos regímenes entre los cuales el trabajador elige al momento de vincularse: el #[b Régimen de Prima Media con Prestación Definida (RPM)], administrado por Colpensiones, en el que los aportes van a un fondo común y la pensión es pagada por el Estado al cumplir los requisitos de edad y semanas cotizadas; y el #[b Régimen de Ahorro Individual con Solidaridad (RAIS)], administrado por las AFP privadas (Protección, Porvenir, Colfondos, Skandia), en el que cada afiliado acumula su propio capital en una cuenta individual y el valor de la pensión futura depende del monto acumulado.
-    p.mb-4
-      | Independientemente del régimen elegido, los porcentajes de cotización son idénticos, la diferencia no está en cuánto se cotiza sino en cómo se administran y acumulan los recursos para generar la futura pensión del trabajador.
+    p.mb-4 Independientemente del régimen elegido, los porcentajes de cotización son idénticos; la diferencia no está en cuánto se cotiza, sino en cómo se administran y acumulan los recursos para generar la futura pensión del trabajador.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .row.justify-content-center.align-items-center.p-4.bgf4
-          .col-lg-3
+          .col-lg-3.col-8.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema2/img12.png', alt='')
           .col-lg-9
-            p.mb-0 Para los trabajadores con IBC superior a 4 SMLMV, se genera un aporte adicional al Fondo de Solidaridad Pensional (FSP), que tiene como propósito subsidiar las pensiones de los trabajadores de menores ingresos que no alcanzan a cumplir los requisitos para pensionarse. Este aporte adicional es del 1 % del IBC para los trabajadores con IBC entre 4 y 16 SMLMV, y puede incrementarse progresivamente para trabajadores con IBC superior a 16 SMLMV, llegando hasta el 2 % para IBC superiores a 20 SMLMV. Este aporte es asumido íntegramente por el trabajador y se descuenta de su salario.
+            p.mb-0 Para los trabajadores independientes, la cotización a pensión es del 16 % sobre el IBC (40 % de los honorarios), y el 100 % es asumido por el contratista, pues no existe empleador. Este porcentaje puede resultar significativo para contratistas con honorarios medios; si los honorarios mensuales son de $5.000.000, el IBC es $2.000.000 y el aporte a pensión es $2.000.000 × 16 % = $320.000 mensuales, lo que representa el 6,4 % de los honorarios brutos. Esta carga debe considerarse en la negociación del valor de los contratos.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1
         p Para los trabajadores independientes, la cotización a pensión es del 16 % sobre el IBC (40 % de los honorarios), y el 100 % es asumido por el contratista pues no existe empleador. Este porcentaje puede resultar significativo para contratistas con honorarios medios, si los honorarios mensuales son de $5.000.000, el IBC es $2.000.000 y el aporte a pensión es $2.000.000 × 16 % = $320.000 mensuales, lo que representa el 6,4 % de los honorarios brutos. Esta carga debe considerarse en la negociación del valor de los contratos.
@@ -202,7 +199,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
-          span Aportes al Sistema general de pensiones y al Fondo de solidaridad
+          span Aportes al Sistema General de Pensiones y al Fondo de Solidaridad
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .tabla-a.color-acento-contenido 
@@ -218,24 +215,23 @@
                   td 16 % del IBC: 12 % empleador + 4 % trabajador. Sin aporte adicional al FSP.
                 tr
                   td Entre 4 y 16 SMLMV.
-                  td 16 % del IBC + 1% adicional del trabajador al FSP. Total, trabajador: 5%.
+                  td 16 % del IBC + 1% adicional del trabajador al FSP. Total, trabajador: 5 %.
                 tr(style="background-color: #FBF7F1;")
                   td Entre 16 y 17 SMLMV.
-                  td 16 % del IBC + 1,2% adicional del trabajador al FSP.
+                  td 16 % del IBC + 1,2 % adicional del trabajador al FSP.
                 tr
                   td Entre 17 y 18 SMLMV.
                   td 16 % del IBC + 1,4 % adicional del trabajador al FSP.
                 tr(style="background-color: #FBF7F1;")
                   td Entre 18 y 19 SMLMV.
-                  td 16 % del IBC + 1,6% adicional del trabajador al FSP.
+                  td 16 % del IBC + 1,6 % adicional del trabajador al FSP.
                 tr
                   td Entre 19 y 20 SMLMV.
-                  td 16 % del IBC + 1,8% adicional del trabajador al FSP.
+                  td 16 % del IBC + 1,8 % adicional del trabajador al FSP.
                 tr(style="background-color: #FBF7F1;")
                   td Más de 20 SMLMV.
-                  td 16 % del IBC + 2% adicional del trabajador al FSP. Total, trabajador: 6%.
-    p.mb-4
-      | A diferencia de los sistemas de salud y pensiones, cuya cotización se distribuye entre el empleador y el trabajador, el Sistema General de Riesgos Laborales establece un porcentaje que recae íntegramente en el empleador y que varía según la actividad económica de la empresa, lo que exige un conocimiento preciso de la clasificación de riesgos vigente.
+                  td 16 % del IBC + 2 % adicional del trabajador al FSP. Total, trabajador: 6 %.
+    p.mb-0 A diferencia de los sistemas de salud y pensiones, cuya cotización se distribuye entre el empleador y el trabajador, el Sistema General de Riesgos Laborales establece un porcentaje que recae íntegramente en el empleador y que varía según la actividad económica de la empresa, lo que exige un conocimiento preciso de la clasificación de riesgos vigente.
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.3 Sistema General de Riesgos Laborales
@@ -253,21 +249,21 @@
     .row.justify-content-center.mb-4
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img19.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img19.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Actividad económica
               p Corresponde a la labor principal que desarrolla la empresa y sirve como punto de partida para definir la clase de riesgo aplicable.
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img20.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img20.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Clase de riesgo
               p Identifica el nivel de exposición del trabajador a peligros laborales. Se organiza en cinco clases, desde riesgo mínimo hasta riesgo máximo.
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img21.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img21.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Tarifa de cotización
@@ -284,7 +280,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema2/img22.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema2/img22.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 La cotización al SGRL depende de la actividad económica, la clase de riesgo y el IBC del trabajador; por ello, su correcta clasificación evita errores en la liquidación de aportes y fortalece la prevención laboral.
     p.mb-4
@@ -307,27 +303,27 @@
               tbody
                 tr(style="background-color: #FBF7F1;")
                   td Clase I — Riesgo mínimo.
-                  td 0,522%
+                  td 0,522 %
                   td Oficinas, bancos, seguros, colegios, consultorios médicos.
                 tr
                   td Clase II — Riesgo bajo.
-                  td Hasta 1,044%
+                  td Hasta 1,04 4%
                   td Comercio al detal, hoteles, restaurantes, manufactura ligera.
                 tr(style="background-color: #FBF7F1;")
                   td Clase III — Riesgo medio.
-                  td Hasta 2,436%
+                  td Hasta 2,436 %
                   td Industrias manufactureras, transporte, construcción liviana.
                 tr
                   td Clase IV — Riesgo alto.
-                  td Hasta 4,350%
+                  td Hasta 4,350 %
                   td Industria química, minería superficial, transporte de carga.
                 tr(style="background-color: #FBF7F1;")
                   td Clase V — Riesgo máximo.
-                  td Hasta 6,960%
+                  td Hasta 6,960 %
                   td Minería subterránea, manejo de explosivos, construcción en altura.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-3 
-        p La tabla permite reconocer que la tarifa de riesgos laborales aumenta según el nivel de exposición de la actividad económica. Por esta razón, no basta con aplicar un porcentaje general, es necesario revisar la clasificación asignada por la ARL, validar la actividad económica y confirmar si existen centros de trabajo con riesgos diferenciados.
+        p La tabla permite reconocer que la tarifa de riesgos laborales aumenta según el nivel de exposición de la actividad económica. Por esta razón, no basta con aplicar un porcentaje general; es necesario revisar la clasificación asignada por la ARL, validar la actividad económica y confirmar si existen centros de trabajo con riesgos diferenciados.
         .row.justify-content-center.align-items-center
           .col-lg-3.d-none.d-lg-block 
             figure
@@ -352,41 +348,39 @@
     .row.justify-content-center.mb-4
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img26.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img26.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Caja de Compensación Familiar
               p Corresponde al 4 % de la nómina mensual de salarios. Este aporte es obligatorio para los empleadores con trabajadores vinculados mediante contrato laboral y financia servicios de bienestar, subsidio familiar, recreación, turismo, deporte, educación y programas sociales.
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img27.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img27.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Servicio Nacional de Aprendizaje (SENA)
               p Corresponde al 2 % de la nómina mensual de salarios, cuando el empleador no se encuentra cobijado por una exoneración legal. Este aporte contribuye a financiar la formación profesional integral.
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/img28.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/img28.svg' alt='')
           .tarjeta.bgf4.w-100
             .p-4
               h5.text-center Instituto Colombiano de Bienestar Familiar (ICBF)
               p Corresponde al 3 % de la nómina mensual de salarios, cuando no aplica exoneración. Su finalidad es apoyar programas de atención, protección y bienestar dirigidos a la niñez, la adolescencia y las familias.
-    p.mb-4
-      | Estos aportes cumplen una función social dentro del sistema colombiano, pero no se aplican de manera idéntica en todos los casos. Por ello, antes de liquidarlos se debe revisar el tipo de empleador, la naturaleza del vínculo laboral, el valor devengado por cada trabajador y las exoneraciones vigentes.
+    p.mb-4 Estos aportes cumplen una función social dentro del sistema colombiano, pero no se aplican de manera idéntica en todos los casos. Por ello, antes de liquidarlos se debe revisar el tipo de empleador, la naturaleza del vínculo laboral, el valor devengado por cada trabajador y las exoneraciones vigentes.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgf2-1
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema2/img29.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema2/img29.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 La liquidación de parafiscales exige diferenciar la base de seguridad social y la base parafiscal, porque cada una responde a reglas y finalidades distintas dentro del sistema de aportes.
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
       h5 Exoneración aplicable
-    p.mb-4
-      | De acuerdo con el artículo 114-1 del Estatuto Tributario, los empleadores que cumplan las condiciones legales pueden estar exonerados del pago de aportes al SENA, al ICBF y de la cotización patronal a salud respecto de trabajadores que devenguen menos de 10 SMMLV. Esta exoneración no elimina el aporte a la Caja de Compensación Familiar, que se mantiene como obligación del empleador.
+    p.mb-4 De acuerdo con el artículo 114-1 del Estatuto Tributario, los empleadores que cumplan las condiciones legales pueden estar exonerados del pago de aportes al SENA, al ICBF y de la cotización patronal a salud respecto de trabajadores que devenguen menos de 10 SMMLV. Esta exoneración no elimina el aporte a la Caja de Compensación Familiar, que se mantiene como obligación del empleador.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .row.justify-content-center.align-items-center.p-4.bgf4
@@ -397,17 +391,13 @@
             p
               b Ejemplo práctico de aportes parafiscales
             p.mb-0 Una empresa tiene un trabajador con salario mensual de $2.000.000 y cumple las condiciones legales para aplicar la exoneración. En este caso, el empleador debe liquidar el 4 % correspondiente a la Caja de Compensación Familiar: $2.000.000 × 4 % = $80.000. Si la exoneración aplica, no liquida SENA, ICBF ni el aporte patronal a salud por ese trabajador. Si no aplica, debe calcular también el 2 % para SENA, el 3 % para ICBF y la parte patronal de salud.
-    p.mb-4
-      | Este ejemplo permite reconocer que la liquidación de parafiscales no debe realizarse de forma automática, sino mediante una revisión previa de la base salarial, las condiciones del empleador y el valor devengado por cada trabajador. Una aplicación incorrecta de la exoneración puede generar diferencias en la PILA, requerimientos de la UGPP e intereses moratorios; por ello, el profesional de nómina debe validar cada caso con criterio normativo y conservar los soportes que respalden la liquidación.
-    p.mb-4
-      | Para reducir estos riesgos, es necesario aplicar controles antes de transmitir y pagar la planilla. Estos controles permiten verificar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores reportados en la PILA.
+    p.mb-4 Este ejemplo permite reconocer que la liquidación de parafiscales no debe realizarse de forma automática, sino mediante una revisión previa de la base salarial, las condiciones del empleador y el valor devengado por cada trabajador. Una aplicación incorrecta de la exoneración puede generar diferencias en la PILA, requerimientos de la UGPP e intereses moratorios; por ello, el profesional de nómina debe validar cada caso con criterio normativo y conservar los soportes que respalden la liquidación.
+    p.mb-4 Para reducir estos riesgos, es necesario aplicar controles antes de transmitir y pagar la planilla. Estos controles permiten verificar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores reportados en la PILA.
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
       h5 Controles para la liquidación
-    p.mb-4
-      | Los controles para la liquidación son verificaciones previas que permiten revisar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores registrados en la PILA. Su aplicación ayuda a prevenir errores de cálculo, pagos indebidos, subdeclaraciones y posibles requerimientos de la UGPP.
-    p.mb-4
-      | Para evitar inconsistencias en la planilla, el área de nómina debe aplicar controles básicos en cada período:
+    p.mb-4 Los controles para la liquidación son verificaciones previas que permiten revisar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores registrados en la PILA. Su aplicación ayuda a prevenir errores de cálculo, pagos indebidos, subdeclaraciones y posibles requerimientos de la UGPP.
+    p.mb-4 Para evitar inconsistencias en la planilla, el área de nómina debe aplicar controles básicos en cada período:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgfI01
@@ -464,7 +454,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img34.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img34.svg', alt='')
           
         h5.text-center Exoneración general de aportes
         p.mb-0.text-center Aplica a determinados empleadores respecto de trabajadores que devenguen, individualmente considerados, menos de 10 SMLMV. Cuando se cumplen los requisitos legales, puede excluirse el pago de aportes al SENA, al ICBF y la cotización patronal a salud, según el artículo 114-1 del Estatuto Tributario.
@@ -472,7 +462,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img35.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img35.svg', alt='')
           
         h5.text-center Beneficios asociados al empleo joven
         p.mb-0.text-center Corresponden a incentivos previstos para promover la vinculación laboral de jóvenes y la creación de empresas jóvenes. Su aplicación exige revisar los requisitos específicos de la Ley 1780 de 2016 y la reglamentación vigente.
@@ -484,7 +474,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema2/img36.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema2/img36.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 Las exoneraciones reducen algunos aportes, pero no eliminan la obligación de verificar la base de liquidación, conservar soportes y reportar correctamente la información en la PILA.
     .row.justify-content-center.align-items-center.bgfI02.mb-4
@@ -530,8 +520,9 @@
                 | guardar nómina, planillas, comprobantes, contratos y documentos que demuestren el cumplimiento de los requisitos.
             li
               i.fas.fa-user(style="color: #FFB758;")
-              p.mb-0
-                | Conciliar la PILA:verificar que los valores liquidados en la planilla coincidan con la nómina, la contabilidad y las exoneraciones aplicadas.
+              p.mb-0 
+                b Conciliar la PILA: 
+                | verificar que los valores liquidados en la planilla coincidan con la nómina, la contabilidad y las exoneraciones aplicadas.
     .row.justify-content-center.align-items-center
       .col-lg-6.col-8.mb-4.mb-lg-0
         figure
