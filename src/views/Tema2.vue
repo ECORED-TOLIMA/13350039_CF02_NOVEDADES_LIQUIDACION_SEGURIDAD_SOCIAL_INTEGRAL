@@ -121,10 +121,10 @@
                 tr(style="background-color: #FBF7F1;")
                   td Trabajador dependiente con salario.
                   td 8,5 % del IBC.
-                  td 4% del IBC / Total: 12,5 %.
+                  td 4 % del IBC / Total: 12,5 %.
                 tr
                   td Trabajador independiente con contrato.
-                  td 0% (no hay empleador).
+                  td 0 % (no hay empleador).
                   td 12,5 % sobre IBC (40 % honorarios).
                 tr(style="background-color: #FBF7F1;")
                   td Pensionado activo (sin trabajar).
@@ -160,7 +160,7 @@
             p.mb-0 Para los trabajadores independientes, la cotización a pensión es del 16 % sobre el IBC (40 % de los honorarios), y el 100 % es asumido por el contratista, pues no existe empleador. Este porcentaje puede resultar significativo para contratistas con honorarios medios; si los honorarios mensuales son de $5.000.000, el IBC es $2.000.000 y el aporte a pensión es $2.000.000 × 16 % = $320.000 mensuales, lo que representa el 6,4 % de los honorarios brutos. Esta carga debe considerarse en la negociación del valor de los contratos.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1
-        p Para los trabajadores independientes, la cotización a pensión es del 16 % sobre el IBC (40 % de los honorarios), y el 100 % es asumido por el contratista pues no existe empleador. Este porcentaje puede resultar significativo para contratistas con honorarios medios, si los honorarios mensuales son de $5.000.000, el IBC es $2.000.000 y el aporte a pensión es $2.000.000 × 16 % = $320.000 mensuales, lo que representa el 6,4 % de los honorarios brutos. Esta carga debe considerarse en la negociación del valor de los contratos.
+        p Para los trabajadores independientes, la cotización a pensión es del 16 % sobre el IBC (40 % de los honorarios), y el 100 % es asumido por el contratista, pues no existe empleador. Este porcentaje puede resultar significativo para contratistas con honorarios medios; si los honorarios mensuales son de $5.000.000, el IBC es $2.000.000 y el aporte a pensión es $2.000.000 × 16 % = $320.000 mensuales, lo que representa el 6,4 % de los honorarios brutos. Esta carga debe considerarse en la negociación del valor de los contratos.
         p.mb-0 Una situación especial en materia pensional es la del trabajador que tiene semanas cotizadas en ambos regímenes, RPM y RAIS, como consecuencia de traslados realizados a lo largo de su vida laboral. Para gestionar correctamente esta situación, es necesario tener en cuenta los siguientes aspectos:
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
@@ -215,7 +215,7 @@
                   td 16 % del IBC: 12 % empleador + 4 % trabajador. Sin aporte adicional al FSP.
                 tr
                   td Entre 4 y 16 SMLMV.
-                  td 16 % del IBC + 1% adicional del trabajador al FSP. Total, trabajador: 5 %.
+                  td 16 % del IBC + 1 % adicional del trabajador al FSP. Total, trabajador: 5 %.
                 tr(style="background-color: #FBF7F1;")
                   td Entre 16 y 17 SMLMV.
                   td 16 % del IBC + 1,2 % adicional del trabajador al FSP.
@@ -235,8 +235,7 @@
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.3 Sistema General de Riesgos Laborales
-    p.mb-4
-      | El Sistema General de Riesgos Laborales (SGRL) protege al trabajador frente a los accidentes de trabajo y las enfermedades laborales que puedan presentarse por causa o con ocasión de la actividad que desarrolla. A diferencia de la salud y la pensión, su cotización está a cargo del empleador y no se descuenta del salario del trabajador. Esta obligación exige identificar correctamente la actividad económica de la empresa, la clase de riesgo y la tarifa aplicable en la liquidación de aportes.
+    p.mb-4 El Sistema General de Riesgos Laborales (SGRL) protege al trabajador frente a los accidentes de trabajo y las enfermedades laborales que puedan presentarse por causa o con ocasión de la actividad que desarrolla. A diferencia de la salud y la pensión, su cotización está a cargo del empleador y no se descuenta del salario del trabajador. Esta obligación exige identificar correctamente la actividad económica de la empresa, la clase de riesgo y la tarifa aplicable en la liquidación de aportes.
     .bloque-texto-gg.tarjeta.bgf5.mb-4
           .bloque-texto-gg__texto.p-4
             img(src='@/assets/curso/temas/tema2/img18.svg', style="width:70px", alt='').mb-2
@@ -244,8 +243,7 @@
           .bloque-texto-gg__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img17.png')})`}"
           )
-    p.mb-4
-      | Para comprender la cotización al Sistema General de Riesgos Laborales, es necesario tener en cuenta tres aspectos básicos:
+    p.mb-4 Para comprender la cotización al Sistema General de Riesgos Laborales, es necesario tener en cuenta tres aspectos básicos:
     .row.justify-content-center.mb-4
       .col-lg-4
         .tarjeta-avatar
@@ -268,8 +266,7 @@
             .p-4
               h5.text-center Tarifa de cotización
               p Es el porcentaje que se aplica sobre el Ingreso Base de Cotización (IBC) del trabajador para calcular el aporte a riesgos laborales.
-    p.mb-4
-      | Estos tres aspectos permiten liquidar el aporte de manera coherente con la actividad real de la empresa y con las condiciones de exposición del trabajador. Por ello, el profesional de nómina debe verificar que la clase de riesgo registrada en la Administradora de Riesgos Laborales (ARL) corresponda a la actividad económica vigente y a los centros de trabajo reportados.
+    p.mb-4 Estos tres aspectos permiten liquidar el aporte de manera coherente con la actividad real de la empresa y con las condiciones de exposición del trabajador. Por ello, el profesional de nómina debe verificar que la clase de riesgo registrada en la Administradora de Riesgos Laborales (ARL) corresponda a la actividad económica vigente y a los centros de trabajo reportados.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         p.mb-4.p-4.bgf1
@@ -283,8 +280,7 @@
                 img(src='@/assets/curso/temas/tema2/img22.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 La cotización al SGRL depende de la actividad económica, la clase de riesgo y el IBC del trabajador; por ello, su correcta clasificación evita errores en la liquidación de aportes y fortalece la prevención laboral.
-    p.mb-4
-      | En la siguiente tabla se presenta la clasificación general de los riesgos laborales y las tarifas iniciales de cotización aplicables según el nivel de exposición. Esta información facilita la consulta, la comparación y la identificación de la clase de riesgo que debe verificarse antes de liquidar los aportes en la planilla.
+    p.mb-4 En la siguiente tabla se presenta la clasificación general de los riesgos laborales y las tarifas iniciales de cotización aplicables según el nivel de exposición. Esta información facilita la consulta, la comparación y la identificación de la clase de riesgo que debe verificarse antes de liquidar los aportes en la planilla.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -307,7 +303,7 @@
                   td Oficinas, bancos, seguros, colegios, consultorios médicos.
                 tr
                   td Clase II — Riesgo bajo.
-                  td Hasta 1,04 4%
+                  td Hasta 1,04 4 %
                   td Comercio al detal, hoteles, restaurantes, manufactura ligera.
                 tr(style="background-color: #FBF7F1;")
                   td Clase III — Riesgo medio.
