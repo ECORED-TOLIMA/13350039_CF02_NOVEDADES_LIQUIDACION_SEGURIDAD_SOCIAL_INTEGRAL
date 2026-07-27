@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Para un contratista independiente, el IBC corresponde al 40 % del valor mensualizado del contrato.',
+            'Para un contratista independiente, el IBC corresponde al 40 % del valor mensualizado del contrato.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -88,7 +88,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El IBC no puede superar, de manera general, los 25 salarios mínimos mensuales legales vigentes.',
+            'El IBC no puede superar, de manera general, los 25 salarios mínimos mensuales legales vigentes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -121,7 +121,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El auxilio de transporte no hace parte del IBC para efectos de cotización a seguridad social.',
+            'El auxilio de transporte no hace parte del IBC para efectos de cotización a seguridad social.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -154,7 +154,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El bono de alimentación no salarial se excluye del IBC; por eso, la base corresponde al salario básico de $2.500.000.',
+            'El bono de alimentación no salarial se excluye del IBC; por eso, la base corresponde al salario básico de $2.500.000.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -188,7 +188,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Para salario variable, el IBC se calcula con el promedio del salario devengado en el trimestre anterior.',
+            'Para salario variable, el IBC se calcula con el promedio del salario devengado en el trimestre anterior.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -221,7 +221,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Cuando el período es incompleto, el IBC se calcula de forma proporcional a los días efectivamente laborados.',
+            'Cuando el período es incompleto, el IBC se calcula de forma proporcional a los días efectivamente laborados.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -254,7 +254,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El aporte total al Sistema General de Salud corresponde al 12,5 % del IBC.',
+            'El aporte total al Sistema General de Salud corresponde al 12,5 % del IBC.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -287,7 +287,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! En salud, el empleador aporta el 8,5 % y el trabajador aporta el 4 % del IBC.',
+            'En salud, el empleador aporta el 8,5 % y el trabajador aporta el 4 % del IBC.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -320,7 +320,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El aporte total al Sistema General de Pensiones corresponde al 16 % del IBC.',
+            'El aporte total al Sistema General de Pensiones corresponde al 16 % del IBC.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -354,7 +354,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! En trabajadores dependientes, el empleador asume el 100 % del aporte al Sistema General de Riesgos Laborales.',
+            'En trabajadores dependientes, el empleador asume el 100 % del aporte al Sistema General de Riesgos Laborales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -387,7 +387,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los aportes parafiscales se destinan al SENA, al ICBF y a la caja de compensación familiar, cuando la empresa no está exonerada.',
+            'Los aportes parafiscales se destinan al SENA, al ICBF y a la caja de compensación familiar, cuando la empresa no está exonerada.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -421,7 +421,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las personas jurídicas y naturales empleadoras que liquidan impuesto sobre la renta pueden estar exoneradas de aportes al SENA e ICBF sobre salarios inferiores a 10 SMLMV, según la normativa aplicable.',
+            'Las personas jurídicas y naturales empleadoras que liquidan impuesto sobre la renta pueden estar exoneradas de aportes al SENA e ICBF sobre salarios inferiores a 10 SMLMV, según la normativa aplicable.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -458,7 +458,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La PILA es el mecanismo electrónico mediante el cual se liquidan y pagan los aportes al Sistema de Seguridad Social Integral.',
+            'La PILA es el mecanismo electrónico mediante el cual se liquidan y pagan los aportes al Sistema de Seguridad Social Integral.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -492,7 +492,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El componente aborda los tipos de planilla E, T, Y, X, N, A y la planilla de anulación, según el cotizante y la situación reportada.',
+            'El componente aborda los tipos de planilla E, T, Y, X, N, A y la planilla de anulación, según el cotizante y la situación reportada.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -529,7 +529,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Para corregir errores en una planilla ya pagada, se debe presentar una planilla de corrección ante el operador de información PILA.',
+            'Para corregir errores en una planilla ya pagada, se debe presentar una planilla de corrección ante el operador de información PILA.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -563,7 +563,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El plazo de pago de la PILA varía según el último dígito del NIT y el tipo de aportante.',
+            'El plazo de pago de la PILA varía según el último dígito del NIT y el tipo de aportante.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -597,7 +597,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El gasto del empleador por aportes patronales se registra en gastos de nómina, de acuerdo con las cuentas contables aplicables.',
+            'El gasto del empleador por aportes patronales se registra en gastos de nómina, de acuerdo con las cuentas contables aplicables.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -631,7 +631,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Una planilla PILA debe contener datos del empleador, período de cotización, identificación del cotizante, IBC, días cotizados y valores por subsistema.',
+            'Una planilla PILA debe contener datos del empleador, período de cotización, identificación del cotizante, IBC, días cotizados y valores por subsistema.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -665,7 +665,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El IBC del contratista es $3.200.000, equivalente al 40 % de $8.000.000; el aporte a pensión es $512.000, correspondiente al 16 %.',
+            'El IBC del contratista es $3.200.000, equivalente al 40 % de $8.000.000; el aporte a pensión es $512.000, correspondiente al 16 %.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -702,7 +702,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La incapacidad por enfermedad general se reporta con la novedad IGE y los días correspondientes, ajustando la liquidación según el período laborado y la novedad registrada.',
+            'La incapacidad por enfermedad general se reporta con la novedad IGE y los días correspondientes, ajustando la liquidación según el período laborado y la novedad registrada.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

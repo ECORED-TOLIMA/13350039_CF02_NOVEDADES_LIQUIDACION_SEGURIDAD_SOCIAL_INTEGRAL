@@ -333,7 +333,7 @@
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animador y productor multimedia',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -343,12 +343,12 @@
       autores: [
         {
           nombre: 'Maria Fernanda Pineda Mora',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

@@ -303,7 +303,7 @@
                   td Oficinas, bancos, seguros, colegios, consultorios médicos.
                 tr
                   td Clase II — Riesgo bajo.
-                  td Hasta 1,04 4 %
+                  td Hasta 1,044 %
                   td Comercio al detal, hoteles, restaurantes, manufactura ligera.
                 tr(style="background-color: #FBF7F1;")
                   td Clase III — Riesgo medio.
@@ -363,7 +363,7 @@
             .p-4
               h5.text-center Instituto Colombiano de Bienestar Familiar (ICBF)
               p Corresponde al 3 % de la nómina mensual de salarios, cuando no aplica exoneración. Su finalidad es apoyar programas de atención, protección y bienestar dirigidos a la niñez, la adolescencia y las familias.
-    p.mb-4 Estos aportes cumplen una función social dentro del sistema colombiano, pero no se aplican de manera idéntica en todos los casos. Por ello, antes de liquidarlos se debe revisar el tipo de empleador, la naturaleza del vínculo laboral, el valor devengado por cada trabajador y las exoneraciones vigentes.
+    p.mb-4 Estos aportes cumplen una función social dentro del sistema colombiano, pero no se aplican de manera idéntica en todos los casos. Por ello, antes de liquidarlos, se debe revisar el tipo de empleador, la naturaleza del vínculo laboral, el valor devengado por cada trabajador y las exoneraciones vigentes.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgf2-1
