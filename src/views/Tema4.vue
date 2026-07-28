@@ -76,7 +76,7 @@
               p.mb-0
                 | El análisis de los casos prácticos presentados permite identificar los errores más frecuentes que cometen los profesionales en el proceso de liquidación de la seguridad social y que, de manera acumulada, representan la mayoría de las investigaciones de la UGPP. El primer error frecuente es la omisión de trabajadores en la PILA, ya sea por descuido, por sistemas de nómina mal configurados o por la incorporación tardía de nuevos empleados al sistema. La omisión de un trabajador en la planilla es una de las infracciones que la UGPP detecta con mayor facilidad al cruzar los registros laborales con los aportes reportados.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Síntesis de los casos prácticos y errores frecuentes
     p.mb-4 El análisis de los casos prácticos presentados permite identificar los errores más frecuentes que cometen los profesionales en el proceso de liquidación de la seguridad social y que, de manera acumulada, representan la mayoría de las investigaciones de la UGPP. El primer error frecuente es la omisión de trabajadores en la PILA, ya sea por descuido, por sistemas de nómina mal configurados o por la incorporación tardía de nuevos empleados al sistema. La omisión de un trabajador en la planilla es una de las infracciones que la UGPP detecta con mayor facilidad al cruzar los registros laborales con los aportes reportados.
     .bloque-texto-gg.tarjeta.bgf1.mb-4

@@ -133,7 +133,7 @@
     p.mb-4
       | La revisión de estos aspectos reduce errores antes del pago y facilita la corrección oportuna de inconsistencias. En consecuencia, la PILA debe entenderse como una herramienta de liquidación, control y soporte documental dentro de la gestión de nómina.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Tipos de planilla PILA
     p.mb-4
       | La PILA cuenta con diferentes tipos de planilla, definidos según las características del aportante, el cotizante y la obligación que se reporta. Seleccionar el tipo correcto es fundamental, porque un error puede afectar la distribución de los recursos, el registro de novedades y la actualización de la historia de aportes del trabajador o contratista.
@@ -439,7 +439,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img20.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img20.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Verificación de la planilla
             p.mb-0 Consiste en revisar la información enviada o pagada para confirmar si coincide con la nómina, los soportes del período, las novedades, las entidades administradoras y los valores liquidados.
@@ -447,7 +447,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img21.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img21.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Corrección de la planilla
             p.mb-0 Aplica cuando se detectan errores que pueden ajustarse sin cancelar completamente la planilla, como un IBC incorrecto, una novedad mal registrada, una entidad equivocada o un trabajador omitido.
@@ -455,7 +455,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img22.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img22.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Anulación de la planilla
             p.mb-0 Procede en situaciones excepcionales, cuando la planilla contiene errores que afectan elementos fundamentales y no pueden corregirse de manera parcial, como el período de liquidación o la identificación del aportante.
@@ -494,7 +494,7 @@
               p Guardar la planilla inicial, la planilla corregida, los comprobantes de pago, las comunicaciones con el operador y los documentos que justifican el ajuste.
         .d-block.d-lg-none
           figure
-            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Matriz RACI para dispositivos móviles')
+            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt=alt='')
     p.mb-4
       | Estos controles ayudan a corregir la información con orden y evitan que una inconsistencia inicial genere errores posteriores. Además, permiten demostrar que la organización aplicó un procedimiento razonable y documentado para cumplir sus obligaciones frente al sistema.
     .row.justify-content-center.align-items-center

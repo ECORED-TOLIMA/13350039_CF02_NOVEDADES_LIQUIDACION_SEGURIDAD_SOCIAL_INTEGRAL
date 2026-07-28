@@ -374,7 +374,7 @@
             .col-lg-12
               p.text-center.mb-0 La liquidación de parafiscales exige diferenciar la base de seguridad social y la base parafiscal, porque cada una responde a reglas y finalidades distintas dentro del sistema de aportes.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Exoneración aplicable
     p.mb-4 De acuerdo con el artículo 114-1 del Estatuto Tributario, los empleadores que cumplan las condiciones legales pueden estar exonerados del pago de aportes al SENA, al ICBF y de la cotización patronal a salud respecto de trabajadores que devenguen menos de 10 SMMLV. Esta exoneración no elimina el aporte a la Caja de Compensación Familiar, que se mantiene como obligación del empleador.
     .row.justify-content-center.align-items-center.mb-4
@@ -390,7 +390,7 @@
     p.mb-4 Este ejemplo permite reconocer que la liquidación de parafiscales no debe realizarse de forma automática, sino mediante una revisión previa de la base salarial, las condiciones del empleador y el valor devengado por cada trabajador. Una aplicación incorrecta de la exoneración puede generar diferencias en la PILA, requerimientos de la UGPP e intereses moratorios; por ello, el profesional de nómina debe validar cada caso con criterio normativo y conservar los soportes que respalden la liquidación.
     p.mb-4 Para reducir estos riesgos, es necesario aplicar controles antes de transmitir y pagar la planilla. Estos controles permiten verificar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores reportados en la PILA.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Controles para la liquidación
     p.mb-4 Los controles para la liquidación son verificaciones previas que permiten revisar la coherencia entre la nómina, la base parafiscal, las exoneraciones aplicadas y los valores registrados en la PILA. Su aplicación ayuda a prevenir errores de cálculo, pagos indebidos, subdeclaraciones y posibles requerimientos de la UGPP.
     p.mb-4 Para evitar inconsistencias en la planilla, el área de nómina debe aplicar controles básicos en cada período:
@@ -486,7 +486,7 @@
     p.mb-4
       | Este ejemplo muestra que la exoneración no se aplica de forma automática ni general a toda la nómina. Antes de usarla, se debe revisar #[b el tipo de empleador, el ingreso individual] del trabajador y #[b el aporte específico] que se pretende excluir. Esta verificación protege a la organización frente a inconsistencias en la liquidación y posibles revisiones de la UGPP.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Controles para aplicar exoneraciones
     p.mb-4
       | Los controles para aplicar exoneraciones son verificaciones previas que permiten confirmar si el empleador y el trabajador cumplen las condiciones legales del beneficio. Su aplicación ayuda a evitar pagos omitidos, liquidaciones incompletas y sanciones derivadas de una interpretación incorrecta de la norma.

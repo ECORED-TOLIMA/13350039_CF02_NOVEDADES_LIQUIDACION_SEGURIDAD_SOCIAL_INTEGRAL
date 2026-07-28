@@ -535,7 +535,7 @@
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle
             figure
-              img(src="@/assets/curso/temas/tema1/img47.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img47.svg", alt='')
           h5.text-center Primer mes laborado
           p El IBC se calcula sobre el salario devengado en ese único mes, pues no existen meses anteriores para promediar. 
           p Ejemplo: Andrea ingresa en octubre y devenga $2.500.000. Su IBC de octubre es $2.500.000.
@@ -543,7 +543,7 @@
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle
             figure
-              img(src="@/assets/curso/temas/tema1/img48.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img48.svg", alt='')
           h5.text-center Segundo mes laborado
           p El IBC se calcula sobre el promedio de los dos meses disponibles.
           p Ejemplo: en noviembre, Andrea devenga $2.800.000. Su IBC es ($2.500.000 + $2.800.000) ÷ 2 = $2.650.000.
@@ -551,7 +551,7 @@
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle
             figure
-              img(src="@/assets/curso/temas/tema1/img49.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img49.svg", alt='')
           h5.text-center Tercer mes laborado
           p El IBC se calcula sobre el promedio de los tres meses disponibles.
           p Ejemplo: en diciembre, Andrea devenga $3.000.000. Su IBC es ($2.500.000 + $2.800.000 + $3.000.000) ÷ 3 = $2.766.667.
@@ -559,7 +559,7 @@
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle
             figure
-              img(src="@/assets/curso/temas/tema1/img50.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img50.svg", alt='')
           h5.text-center Cuarto mes laborado
           p Se aplica plenamente la regla del promedio de los tres meses anteriores, con independencia del tiempo que lleve el trabajador en la empresa.
     p.mb-4 Este período de transición debe manejarse con cuidado en el sistema de nómina para garantizar que los IBC iniciales sean correctos y no generen inconsistencias que la UGPP detecte en períodos posteriores.
